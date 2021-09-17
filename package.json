@@ -28,7 +28,7 @@
     "bootstrap": "^5.1.0",
     "browser-image-compression": "^1.0.15",
     "clsx": "^1.1.1",
-    "date-fns": "^2.23.0",
+    "date-fns": "^2.24.0",
     "dompurify": "^2.3.1",
     "enzyme": "^3.11.0",
     "eslint-plugin-flowtype": "^5.9.0",
